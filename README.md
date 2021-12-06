@@ -7,26 +7,11 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 Courses | School | Duration | Effort | Frequency | Prerequisites | Done?
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none | No
-[Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none | No
-
-## Programming
-
-Courses | School | Duration | Effort | Frequency | Prerequisites | Done?
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Programming for Everybody (Getting Started with Python)](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | none | Yes
-[Python Data Structures](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | Programming for Everybody (Getting Started with Python) | Yes
-[Using Python to Access Web Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-network-data)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | Python Data Structures | No
-[Using Databases with Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-databases)| University of Michigan | 3 weeks | 4-8 hours/week | self-paced | Using Python to Access Web Data | No
-[Capstone: Retrieving, Processing, and Visualizing Data with Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data-visualization) | University of Michigan | 2 weeks | 4-6 hours/week | self-paced | Using Databases with Python | No
 
 ## Math
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Done?
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x) | No
-[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks | 6-10 hours/week | self-paced | Calculus 1A: Differentiation | No
-[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)| MIT | 8 weeks | 6-10 hours/week | self-paced | Calculus 1B: Integration | No
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x) | No
 [Introduction to Probability and Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro) | Duke | 5 weeks | 5-7 hours/week | twice a month | none | No
 [Intro to Statistics ](https://imp.i115008.net/intro-to-statistics) | Udacity | 8 weeks | 5-7 hours/week | self-paced | none | No
 
@@ -34,11 +19,11 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Done?
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Done?
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Introduction to Data Science in Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data-analysis) | University of Michigan | 3 weeks | 4-6 hours/week | self-paced | basic programming knowledge | No
-[Applied Plotting, Charting & Data Representation in Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-plotting) | University of Michigan | 4 weeks | 5-7 hours/week | self-paced | Introduction to Data Science in Python | No
-[Applied Machine Learning in Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-machine-learning) | University of Michigan | 6 weeks | 5-7 hours/week | self-paced | Applied Plotting, Charting & Data Representation in Python | No
-[Applied Text Mining in Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-text-mining) | University of Michigan | 5 weeks | 5-7 hours/week | self-paced | Applied Machine Learning in Python | No
-[Applied Social Network Analysis in Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-social-network-analysis) | University of Michigan | 5 weeks | 5-7 hours/week | self-paced | Applied Text Mining in Python | No
+[Python for Data Science](https://www.edx.org/course/python-for-data-science-2) | University of San Diego | 10 weeks | 8-10 hours/week | self-paced | basic programming knowledge | No
+[Probability and Statistics in Data Science using Python](https://www.edx.org/course/probability-and-statistics-in-data-science-using-p) | University of San Diego | 10 weeks | 10-12 hours/week | self-paced | Python for Data Science | No
+[Machine Learning Fundamentals](https://www.edx.org/course/machine-learning-fundamentals-2) | University of San Diego | 10 weeks | 8-10 hours/week | self-paced | Probability and Statistics in Data Science using Python | No
+[Big Data Analytics Using Spark](https://www.edx.org/course/big-data-analytics-using-spark) | University of San Diego | 10 weeks | 9-12 hours/week | self-paced | Machine Learning Fundamentals | No
+
 
 ## Systems
 
