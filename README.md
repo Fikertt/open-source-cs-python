@@ -8,13 +8,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Done?
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none | No
 
-## Math
-
-Courses | School | Duration | Effort | Frequency | Prerequisites | Done?
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Introduction to Probability and Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro) | Duke | 5 weeks | 5-7 hours/week | twice a month | none | No
-[Intro to Statistics ](https://imp.i115008.net/intro-to-statistics) | Udacity | 8 weeks | 5-7 hours/week | self-paced | none | No
-
 ## Data Science
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Done?
