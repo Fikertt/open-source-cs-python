@@ -16,10 +16,3 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Done?
 [Probability and Statistics in Data Science using Python](https://www.edx.org/course/probability-and-statistics-in-data-science-using-p) | University of San Diego | 10 weeks | 10-12 hours/week | self-paced | Python for Data Science | No
 [Machine Learning Fundamentals](https://www.edx.org/course/machine-learning-fundamentals-2) | University of San Diego | 10 weeks | 8-10 hours/week | self-paced | Probability and Statistics in Data Science using Python | No
 [Big Data Analytics Using Spark](https://www.edx.org/course/big-data-analytics-using-spark) | University of San Diego | 10 weeks | 9-12 hours/week | self-paced | Machine Learning Fundamentals | No
-
-## Unix
-
-Courses | School | Duration | Effort | Frequency | Prerequisites | Done?
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Linux Command Line Basics](https://imp.i115008.net/linux-command-line-basics) | Udacity | 1 week | 5 hours/week | self-paced | none | Yes
-[The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | once a month | none | No
